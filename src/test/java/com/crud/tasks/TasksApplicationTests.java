@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 class TasksApplicationTests {
 
 	public static void main(String[] args) {
-		// testowy obiekt
+
 		TaskDto taskDto = new TaskDto(
 				1L,
 				"Test title",
